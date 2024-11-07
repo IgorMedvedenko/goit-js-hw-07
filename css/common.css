@@ -104,6 +104,37 @@ input {
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
-.input-holder title {
+.input-holder .title {
   margin-bottom: 0;
+}
+
+.login-form {
+  border-radius: 8px;
+  padding: 24px;
+  width: 408px;
+  height: auto;
+  background: #fff;
+}
+label {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+.form-btn {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 86px;
+  border: none;
+  height: 40px;
+  background: #4e75ff;
+  margin-top: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
 }
