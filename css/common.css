@@ -167,3 +167,57 @@ label {
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
+.script {
+  border-radius: 8px;
+  padding: 24px;
+  width: 534px;
+  min-height: 302px;
+  background: #fff;
+}
+.controls-holder {
+  border-radius: 8px;
+  padding: 32px;
+  width: 486px;
+  height: 104px;
+  background: #f6f6fe;
+  margin-bottom: 16px;
+  display: flex;
+  gap: 16px;
+}
+.input-number {
+  border: 1px solid #808080;
+  border-radius: 8px;
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
+  color: #2e2f42;
+}
+.create-btn {
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  width: 120px;
+  height: 40px;
+  background: #4e75ff;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+.destroy-btn {
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  width: 120px;
+  height: 40px;
+  background: #ff4e4e;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+.boxes-holder {
+  border-radius: 8px;
+  padding: 32px;
+  width: 486px;
+  min-height: 134px;
+  background: #f6f6fe;
+}
